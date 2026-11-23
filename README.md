@@ -5,3 +5,5 @@ A social app that helps you find your look-alike. Upload a selfie and Twinder co
 - Only users who opt in are included in matching.
 - Matches are shown side by side with a similarity score.
 - A connection happens only when both people agree.
+
+Live prototype: https://twinder-lookalike.vercel.app (concept demo: sample matches only, photos stay in your browser).
